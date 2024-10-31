@@ -37,14 +37,6 @@ Humbug est un jeu de réflexion inspiré du célèbre puzzle game où le joueur 
 - Java 11 ou supérieur
 - Maven
 
-## 🚀 Installation
-
-```bash
-git clone https://github.com/[votre-username]/humbug.git
-cd humbug
-mvn clean install
-```
-
 ## 🎯 Comment Jouer
 
 1. Lancez le jeu via la commande : `java -jar target/Humbug-1.0.jar`
